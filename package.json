@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://example.com/user/project.git"
+    "url": "git+https://github.com/kaspim/npm-package-example.git"
   },
   "keywords": [
     "npm",
